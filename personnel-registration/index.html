@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="main.css">  
+    
+</head>
+
+<body>
+
+    <h2>REGİSTRATİON FORM</h2>
+    <div id="mainScreen">
+        <div id="entries">
+            <input type="text" id="namee" placeholder="Name.." autocomplete="off">
+            <input type="text" id="surname" placeholder="Surname..">
+            <input type="text" id="no" placeholder="Phone Number.." maxlength="11">
+            <button id="save" class="save">Save</button>
+
+        </div>
+        <table id="line">
+            <thead>
+                <th id="lineName">Name</th>
+                <th id="lineSurname">Surname</th>
+                <th id="lineNo">Phone Number</th>
+                <th>Id</th>
+                <th id="transactions">Transactions</th>
+            </thead>
+            <tbody id="body">
+
+            </tbody>
+        </table>
+    </div>
+
+</body>
+<script src="app.js"></script> 
+<script src="database.js"></script>
+
+</html>
