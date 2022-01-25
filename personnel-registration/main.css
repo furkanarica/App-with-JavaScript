@@ -1,0 +1,132 @@
+body {
+    background-image: url(http://sbt.com.tr/wp-content/uploads/Savin-NY-Website-Background-Web-1.jpg);
+}
+
+#mainScreen {
+    width: 1200px;
+    height: 600px;
+    
+    margin: 0 auto;
+    margin-top: 140px;
+}
+
+#entries {
+    padding-left: 175px;
+    padding-top: 30px;
+    
+    
+}
+
+#namee {
+    width: 250px;
+    height: 25px;
+}
+
+#surname {
+    width: 250px;
+    height: 25px;
+}
+
+#no {
+    width: 250px;
+    height: 25px;
+}
+
+#save {
+    width: 70px;
+    height: 30px;
+    cursor: pointer;
+    background-color:cornflowerblue;
+    color: white;
+    border-radius: 5px;
+}
+
+#line {
+    border : 1px solid black;
+    border-collapse: collapse;
+    width: 940px;
+    margin-left: 176px;
+    margin-top: 40px;
+    color: white;
+    background-color:darkcyan
+    
+}
+
+#line th {
+    border: 1px solid white;
+    padding: 4px;
+    font-size: 19px;
+}
+
+#lineName {
+    width: 250px;
+    height: 35px;
+    
+}
+
+#lineSurname {
+    width: 250px;
+    height: 35px;
+    
+}
+
+#lineNo {
+    width: 250px;
+    height: 35px;
+  
+}
+#transactions {
+    width: 150px;
+    height: 34px;
+   
+}
+
+h2 {
+    margin-top : 40px;
+    margin-left: 850px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:midnightblue;
+
+}   
+
+.buttonDelete {
+    width: 65px;
+    height: 30px;
+    cursor: pointer;
+    background-color:red;
+    color:white;
+    border-radius: 5px;
+}
+
+#btntransformSave {
+    width: 70px;
+    height: 30px;
+    cursor: pointer;
+    background-color:cornflowerblue;
+    color: white;
+    border-radius: 5px;
+}
+
+.buttonEdit {
+    width: 65px;
+    height: 30px;
+    cursor: pointer;
+    background-color:forestgreen;
+    color:white;
+    border-radius: 5px;
+}
+
+#body td {
+    border: 1px solid white;
+    padding: 4px;
+    font-size: 19px;
+}
+
+
+
+
+
+
+
+
+
