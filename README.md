@@ -1,1 +1,1 @@
-#Personnel registration program with java script
+# Personnel registration program with Java Script.
